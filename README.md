@@ -5,7 +5,7 @@ Noemi Carolina Guerra Montiel
 * University project (SDSU)
 * **Date:** November 2022
 * **Location:** San Diego, CA
-* **Directory:**
+* **Directory:** [DAS](https://github.com/Noemi1313/InfluenzaProject/tree/814c62dac2159649fa0134309fa0604d5de47d7a)
 * **Contents:**
   -	Utilized **Python** to provide a tentative prediction of the condition of individuals regarding their susceptibility to symptoms of depression, anxiety and stress.
   - Implemented data manipulation and data cleaning using pandas and data visualization using **matplotlib/seaborn**.
@@ -15,7 +15,7 @@ Noemi Carolina Guerra Montiel
 * Personal Project
 * **Date:** October 2023
 * **Location:** Tijuana, BC
-* **Directory:**
+* **Directory:** [SalesAnalysis] (https://github.com/Noemi1313/PortfolioDS/tree/main/SalesAnalysis)
 * **Contents:**
   - Performed data analysis on a store’s public database using Microsoft **SQL Server** to increase profitability.
   - Created a dashboard with **Tableau** …
@@ -24,7 +24,7 @@ Noemi Carolina Guerra Montiel
 * University project (ITESM)
 * **Date:** April 2020
 * **Location:** Monterrey, NL
-* **Directory:**
+* **Directory:** [InfluenzaProj] (https://github.com/Noemi1313/InfluenzaProject/tree/814c62dac2159649fa0134309fa0604d5de47d7a)
 * **Contents:**
   -	Analyzed 9 influenza variants using **R Studio** to assess their similarities and differences through sequence analysis.
   - Used commonly used libraries like **ggplot** and ggtree to obtain comparative graphs and a global hierarchical analysis (phylogenetic tree).
