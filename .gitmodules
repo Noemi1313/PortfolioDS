@@ -1,0 +1,6 @@
+[submodule "InfluenzaProject"]
+	path = InfluenzaProject
+	url = https://github.com/Noemi1313/InfluenzaProject.git
+[submodule "DAS"]
+	path = DAS
+	url = https://github.com/Noemi1313/DAS.git
