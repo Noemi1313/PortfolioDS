@@ -1,13 +1,13 @@
 # E-commerce Sales Analysis
-Noemi Carolina Guerra Montiel 
+Noemi Carolina Guerra Montiel<br>
 October 2023
 
 ## Summary
-This project aims to use SQL and Tableau to analyze a synthetic dataset for e-commerce shopping. 
+This project aims to use SQL and Tableau to analyze a synthetic database for e-commerce shopping. 
+<br>
+[Original Database in Kaggle](https://www.kaggle.com/datasets/ruchi798/shopping-cart-database/data?select=sales.csv)
 
-[Database](https://www.kaggle.com/datasets/ruchi798/shopping-cart-database/data?select=sales.csv)
-
-## Entity-Relation (ER) Diagram
+## Entity Relationship (ER) Diagram
 ![ER](ER-diagram.png)
 
 ## Relation Schema
