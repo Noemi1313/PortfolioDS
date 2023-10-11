@@ -10,7 +10,7 @@ This project aims to use SQL and Tableau to analyze a synthetic database for e-c
 ## Entity Relationship (ER) Diagram
 ![ER](ER-diagram.png)
 
-## Relation Schema
+## Relational Schema
 ![RS](R-schema.png)
 
 ## Contents
