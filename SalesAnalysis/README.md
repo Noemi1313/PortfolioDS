@@ -11,7 +11,7 @@ This project aims to use SQL and Tableau to analyze a synthetic database for e-c
 ![ER](ER-diagram.png)
 
 ## Relation Schema
-<!--![RS](R-schema.png)-->
+![RS](R-schema.png)
 
 ## Contents
 - SQL Code in MySQL / Microsoft SQL Server
