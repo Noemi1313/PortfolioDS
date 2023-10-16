@@ -17,8 +17,8 @@ Noemi Carolina Guerra Montiel
 * **Location:** Tijuana, BC
 * **Directory:** [SalesAnalysis](https://github.com/Noemi1313/PortfolioDS/tree/main/SalesAnalysis)
 * **Contents:**
-  - Performed data analysis on a store’s public database using Microsoft **SQL Server** to increase profitability.
-  - Created a dashboard with **Tableau** …
+  - Performed data analysis on a store’s public database using Microsoft **SQL Server** to understand the factors that could increase profitability.
+  - Created a dashboard with **Tableau** to visualize the most sold products, the resulting revenue, and to understand customer demographics.
 
 ## SEQUENCE ANALYSIS OF MEXICAN INFLUENZA VARIANTS
 * University project (ITESM)
