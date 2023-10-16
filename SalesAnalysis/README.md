@@ -19,4 +19,4 @@ This project aims to use SQL and Tableau to analyze a synthetic database for e-c
 - Understanding Customer demographics and their preferences
 
 ## Tableau dashboard
-![dash](dash.png)
+![da](da.png)
