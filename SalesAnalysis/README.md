@@ -21,3 +21,6 @@ This project aims to use SQL and Tableau to analyze a synthetic database for e-c
 ## Contents
 - SQL Code in MySQL / Microsoft SQL Server
 - Tableau Dashboard
+
+## Tableau dashboard
+<!--![dash](dashboard.png)
