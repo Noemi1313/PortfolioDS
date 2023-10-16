@@ -13,6 +13,11 @@ This project aims to use SQL and Tableau to analyze a synthetic database for e-c
 ## Relational Schema
 ![RS](R-schema.png)
 
+## Research Questions
+- Which products were sold the most in the last month?
+- How have sales and revenue changed over the past few quarters?
+- Understanding Customer demographics and their preferences
+
 ## Contents
 - SQL Code in MySQL / Microsoft SQL Server
 - Tableau Dashboard
