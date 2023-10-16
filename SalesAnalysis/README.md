@@ -23,4 +23,4 @@ This project aims to use SQL and Tableau to analyze a synthetic database for e-c
 - Tableau Dashboard
 
 ## Tableau dashboard
-<!--![dash](dashboard.png)
+![dash](dash.png)
