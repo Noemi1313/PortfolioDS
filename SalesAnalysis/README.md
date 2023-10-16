@@ -18,9 +18,5 @@ This project aims to use SQL and Tableau to analyze a synthetic database for e-c
 - How have sales and revenue changed over the past few quarters?
 - Understanding Customer demographics and their preferences
 
-## Contents
-- SQL Code in MySQL / Microsoft SQL Server
-- Tableau Dashboard
-
 ## Tableau dashboard
 ![dash](dash.png)
